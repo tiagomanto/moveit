@@ -15,3 +15,17 @@
   align-content: center;
   padding-top: 5rem;
 }
+
+
+@media(max-width:600px){
+  .container section{
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap:6.25rem;
+    align-content: center;
+    padding-top: 5rem;
+  }
+  
+}
+
