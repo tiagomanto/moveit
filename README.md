@@ -15,7 +15,7 @@ See now the application running
 https://moveit-b7ipa3jxg-tiagomanto.vercel.app
 
 
-To clone repository
+To clone repository running local
 
 ☑ git clone https://github.com/tiagomanto/moveit.git
 
@@ -24,6 +24,8 @@ To clone repository
 ☑ using yarn or npm to install all dependencies
 
 ☑ type yarn dev or npm dev
+
+☑ type http://localhost:3000 and see local running
 
 Enjoy
 😁
